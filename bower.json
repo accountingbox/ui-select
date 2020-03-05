@@ -1,6 +1,6 @@
 {
-  "name": "angular-ui-select",  
-  "homepage": "https://github.com/angular-ui/ui-select",
+  "name": "ab-ui-select",
+  "homepage": "https://github.com/accountingbox/ui-select",
   "authors": [
     "AngularUI"
   ],
