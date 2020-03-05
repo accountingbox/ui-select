@@ -1,7 +1,7 @@
 /*!
  * ui-select
  * http://github.com/angular-ui/ui-select
- * Version: 0.19.8 - 2020-03-05T16:26:34.986Z
+ * Version: 0.19.9 - 2020-03-05T17:49:12.468Z
  * License: MIT
  */
 
@@ -315,6 +315,7 @@ body > .ui-select-bootstrap.open {
   padding: 5px 0;
   margin: 0;
   list-style: none;
+}
 
 .ui-select-bootstrap .ui-select-header-group-selectable:hover {
     background-color: #f5f5f5;
